@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-#
+# Adding annother comment.
 # Complete the 'birthdayCakeCandles' function below.
 #
 # The function is expected to return an INTEGER.
